@@ -1,0 +1,4 @@
+thedailyscoop
+=============
+
+assignment 1
